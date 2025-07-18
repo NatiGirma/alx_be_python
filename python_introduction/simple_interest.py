@@ -1,8 +1,8 @@
 
-p = 1000
-r = 0.05
-t = 3
+principal = 1000
+rate = 0.05
+time = 3
 
-I = p * r * t
+interest = principal * rate * time
 
-print("The simple interest is: " + str(I))
+print("The simple interest is: " + str(interest))
